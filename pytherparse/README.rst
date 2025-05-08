@@ -34,10 +34,11 @@ pytherparse
 ===========
 
 
-    Add a short description here!
+    `pytherparse` provides Python bindings for the `etherparse` Rust crate, enabling high-performance packet parsing in Python via Rust and `pyo3`. 
+    This library is designed for developers working with network packets who need a fast and reliable way to parse Ethernet, IP, and transport layer headers.
 
 
-A longer description of your project goes here...
+
 
 
 .. _pyscaffold-notes:
